@@ -2,6 +2,7 @@
 import { useParams } from "react-router-dom";
 import Word, { IWord } from "./Word.tsx";
 import useFetch from "../hooks/useFetch.ts";
+import React from "react";
 
 export default function Day() {
     //dummy.words
