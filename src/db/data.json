@@ -1,0 +1,103 @@
+{
+  "days": [
+    {
+      "id": "1",
+      "day": 1
+    },
+    {
+      "id": "2",
+      "day": 2
+    },
+    {
+      "id": "3",
+      "day": 3
+    },
+    {
+      "id": "80fc",
+      "day": 4
+    },
+    {
+      "id": "4560",
+      "day": 5
+    }
+  ],
+  "words": [
+    {
+      "id": "1",
+      "day": 1,
+      "eng": "book",
+      "kor": "책",
+      "isDone": false
+    },
+    {
+      "id": "3",
+      "day": 2,
+      "eng": "car",
+      "kor": "자동차",
+      "isDone": false
+    },
+    {
+      "id": "4",
+      "day": 2,
+      "eng": "pen",
+      "kor": "팬",
+      "isDone": false
+    },
+    {
+      "id": "5",
+      "day": 3,
+      "eng": "school",
+      "kor": "학교",
+      "isDone": false
+    },
+    {
+      "id": "6",
+      "day": 3,
+      "eng": "pencil",
+      "kor": "연필",
+      "isDone": false
+    },
+    {
+      "id": "453c",
+      "day": "3",
+      "eng": "window",
+      "kor": "창문",
+      "isDone": false
+    },
+    {
+      "id": "0833",
+      "day": "3",
+      "eng": "House",
+      "kor": "집",
+      "isDone": false
+    },
+    {
+      "id": "5fc4",
+      "day": "2",
+      "eng": "mouse",
+      "kor": "쥐",
+      "isDone": false
+    },
+    {
+      "id": "ba1e",
+      "day": "4",
+      "eng": "monkey",
+      "kor": "원숭이",
+      "isDone": false
+    },
+    {
+      "id": "7cd2",
+      "day": "3",
+      "eng": "peach",
+      "kor": "복숭아",
+      "isDone": false
+    },
+    {
+      "id": "b0af",
+      "day": "5",
+      "eng": "basketball",
+      "kor": "농구공",
+      "isDone": false
+    }
+  ]
+}

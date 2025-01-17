@@ -1,3 +1,5 @@
+# Record Word
+본 프로젝트는 React를 공부하기 위한 프로그램 예제입니다.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
